@@ -1,0 +1,4 @@
+Hello
+This is Wes
+I'm learning how to code
+Using The Odin Project
